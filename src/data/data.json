@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "Barrio Privado",
+    "paragraph": "En la mejor zona de Longchamps"
+  },
+  "About": {
+    "paragraph": "En el partido de Almirante Brown, Provincia de Bs. As., en la localidad de Longchamps (cuna de la aviación sudamericana), en un predio único en todo el gran Buenos Aires por tratarse de 30has insertas en plena trama urbana a 2 cuadras de la Av. H. Yrigoyen y a 6 de la Estación, a minutos del centro comercial de Adrogué y sus shoppings, del parque industrial de Burzaco y el Polo Tecnológico Sur, se desarrolla uno de los emprendimientos mas destacado por éstas y otras tantas características.    Mas de 350 lotes disponibles - Lotes de 450m2 - Seguridad Privada - Todos los servicios - Área deportiva (4 canchas de tenis de polvo de ladrillo y cancha de fútbol) - Club House - Spa y Gimnasio - Piscina y solarium - Añosa arboleda - Cercanía a todos los accesos - 50% de la superficie destinada a espacios verdes - Proyecto y Dirección MRA+A (Est. Mario Roberto Alvarez &amp; Asociados con mas de 3.000.000 de m2 construidos a la fecha) - FINANCIACIÓN!!    El predio tiene una rica historia. Perteneciente a la Familia Laplacette de Gassiebayle, pioneros de Longchamps, se construyó el castillo El Mirador (ver fotos) con una torre donde se podía divisar toda la localidad, contaba con vitreaux traidos de Francia, gran bodega con vinos envasados especialmente y tenia ademas de la frondosa arboleda (alguno de cuyos ejemplares podemos ver hoy en el predio), pileta, cancha de tenis, cancha de paleta, y cancha de POLO, entre otras características diseñadas para el disfrute",
+    "Why": [
+      "escritura inmediata",
+      "financiacion hasta 36 meses",
+      "amplia experiencia",
+      "reserva con 200 usd"
+    ],
+    "Why2": [
+      "escritura inmediata",
+      "financiacion hasta 36 meses",
+      "amplia experiencia",
+      "reserva con 200 usd"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Empezá a construir ahora",
+      "largeImage": "img/portfolio/Artboard1_1stjoseph.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Añosa arbolada",
+      "largeImage": "img/portfolio/Artboard1_1stjoseph.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Seguridad las 24hs",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "50% destinado a espacios verdes",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Pileta",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Canchas de tenis",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+   
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Seguridad Privada",
+      "text": "Las 24hs"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Cancha de Tenis",
+      "text": "4 Canchas de polvo de ladrillo"
+    },
+    {
+      "icon": "fa fa-futbol-o",
+      "name": "Cancha de futbol",
+      "text": "de césped"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Club House",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Spa",
+      "text": "Para relajarte como te merecés"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Gimnasio",
+      "text": "Para no dejar de entrenar"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Esteban adrogué 1015 ",
+    "phone": "11 3796-6352",
+    "email": "info@diazmayerbrie.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Reserva tu lote",
+      "text": "Con solo U$S 200"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Aboná el anticipo",
+      "text": " y empezá a disfrutar"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Empezá a construir",
+      "text": "Podés construir mientras pagas el lote"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Disfruta tu nueva vida",
+      "text": ""
+    }
+  ]
+}

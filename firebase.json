@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site":"dmbdemo",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
